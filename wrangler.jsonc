@@ -12,5 +12,11 @@
 	"workers_dev": false,
 	"observability": {
 		"enabled": true
-	}
+	},
+	"routes": [
+		{
+			"pattern": "avatar.provided.space",
+			"custom_domain": true
+		}
+	]
 }
