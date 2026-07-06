@@ -18,5 +18,8 @@
 			"pattern": "avatar.provided.space",
 			"custom_domain": true
 		}
-	]
+	],
+	"cache": {
+		"enabled": true
+	}
 }
